@@ -19,7 +19,6 @@ import { CoreModule } from './core.module';
     SharedModule,
     CoreModule,
   ],
- 
   bootstrap: [AppComponent],
 })
 export class AppModule { }
